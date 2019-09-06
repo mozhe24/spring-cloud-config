@@ -1,6 +1,6 @@
 spring:
   application:
-    name: hello-spring-cloud-service-admin
+    name: hello-spring-cloud-service-admin-new
   boot:
     admin:
       client:
