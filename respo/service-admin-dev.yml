@@ -10,7 +10,7 @@ spring:
   spring: 
   rabbitmq:
     host: 
-    port: 5672
+    port: 15672
     username: guest
     password: guest  
 server:
